@@ -1,0 +1,666 @@
+CHAPTER III.
+
+INTERMEDIATE FORMS OF ABSTRACTION.
+
+
+Having thus acquainted ourselves with this new factor—speech—which as an
+instrument of abstraction becomes steadily more and more important, we
+can take up our subject from the point at which we left it. In passing
+from the absence to the presence of the word, from the lower to the
+intermediate forms of abstraction, we must again insist on our principal
+aim: viz., to prove that abstraction and generalisation are functions
+of the completely evolved mind. They exist in embryo in perception, and
+in the image, and at their extreme limit involve suppression of all
+concrete representation. This conclusion will hardly be contradicted. The
+difficulty is to follow the evolution step by step, stage after stage,
+and to note the difference by _objective_ marks.
+
+For intermediate abstraction, this operation is very simple. It
+implies the use of words; it has passed the level of pre-linguistic
+abstraction and generalisation. We may go farther, and—always _with the
+aid of words_—establish two classes within the total category of mean
+abstraction:
+
+1. The lower forms, bordering on generic images, whose objective mark
+is the feeble participation of the word: it can indeed be altogether
+foregone, and is only in the least degree an instrument of substitution.
+
+2. The higher forms, approximating to the class of pure concepts, and
+having as their objective mark the fact that words are indispensable,
+since these have now become an instrument of substitution, though still
+accompanied by some sensory representation.
+
+The legitimacy of this division can be justified only by a detailed
+comparison of the two classes.
+
+
+I.
+
+Before giving examples that determine the nature and intellectual trend
+of the lower forms, a theoretical question presents itself which cannot
+be eluded, albeit any profound discussion of it belongs to the theory of
+cognition rather than to psychology. It is as follows: Is the difference
+between generic images and the lowest concepts, one of nature or of
+degree? This question has sometimes been propounded in a less general and
+more concrete form; Is there any radical difference, any impassable gulf
+between animal intelligence[67] in its higher, and human intelligence in
+its lower aspects? Some authors give an absolute negation, others admit
+community of nature, and of transitional forms.
+
+I shall first reject as inadmissible the argument that identifies
+abstraction with the use of words. Taine seems at times to admit this:
+“We think,” he says, “the abstract characters of things by means of the
+abstract names that are our abstract ideas, and the formation of our
+ideas is no more than the formation of names which are substitutes.”[68]
+Clearly if abstraction is impossible without words, this operation could
+only begin with speech. All that was said above (Chap. I) proves the
+inanity of such an assertion.
+
+Let us, in order to discuss the question profitably, sum up the principal
+characteristics of generic images on the one hand, of inferior concepts
+on the other.
+
+Generic images are: (1) simple and of the practical order; (2) the
+result of often-repeated experiences; (3) extracts from very salient
+resemblances; (4) a condensation into a visual, auditory, tactile, or
+olfactory representation. They are the fruit of _passive_ assimilation.
+
+The inferior concepts most akin to them, which we are studying in the
+present instance, are in character: (1) less simple; (2) less frequently
+repeated in experience; (3) they assume as material, similarities mingled
+with sufficiently numerous differences; (4) they are fixed by a word.
+They are the fruit of _active_ assimilation.
+
+It may be said that the two classes, when thus opposed to each other,
+present but minimal differences, save for the addition of words. For the
+moment, indeed, the word is only an instrument handled by a bad workman,
+who ignores its efficacy and highest significance, as will be proved
+below. But were it otherwise, and were the delimitation between the two
+classes in no way fluctuating, the thesis of a progressive evolution
+must needs be given up, unless it be admitted to begin only with the
+appearance of speech.[69]
+
+Romanes describes the passage from the generic image to the concept as
+follows:
+
+“Water-fowl adopt a somewhat different mode of alighting upon land, or
+even upon ice, from that which they adopt when alighting upon water;
+and those kinds which dive from a height (such as terns and gannets)
+never do so upon land or ice. These facts prove that these animals have
+one recept answering to a solid substance, and another answering to a
+fluid. Similarly a man will not dive from a height over hard ground, or
+over ice, nor will he jump into water in the same way as he jumps upon
+land. In other words, like the water-fowl, he has two distinct recepts,
+one of which answers to solid ground, and the other to an unresisting
+fluid. But unlike the water-fowl, he is able to bestow upon each of these
+recepts a name, and thus to raise them both to the level of concepts.
+So far as the practical purposes of locomotion are concerned, it is,
+of course, immaterial whether or not he thus raises his recepts into
+concepts; but, as we have seen, for many other purposes it is of the
+highest importance that he is able to do this. Now, in order to do it, he
+must be able to set his recept before his own mind as an object of his
+own thought: before he can bestow upon these generic ideas the names of
+“solid” and “fluid,” he must have cognised them as ideas. Prior to this
+act of cognition, these ideas differed in no respect from the recepts
+of a water-fowl; neither for the requirements of his locomotion is it
+needful that they should: therefore, in so far as these requirements are
+concerned, the man makes no call upon his higher faculties of ideation.
+But, in virtue of this act of cognition whereby he assigns a name to an
+idea known as such, he has created for himself—and for purposes other
+than locomotion—a priceless possession; he has formed a concept.”[70]
+
+In point of fact, the transition is not so simple. Romanes omits the
+intermediate stages: for with fluid and liquid we penetrate into a more
+elevated order of concepts than those immediately bordering on the
+generic image. What he well brings out is that the bare introduction
+of words does not explain everything. It must not be forgotten that
+if the higher development of the intelligence depends upon the higher
+development of abstraction, which itself depends upon the development
+of speech, this last is conditioned, not simply by the faculty of
+articulation, which exists among many animals, but by anterior cerebral
+conditions that have to be sought out.
+
+For these, we must return to the distinction loosely established above,
+between passive and active assimilation. We know that the fundamental
+mechanism of cognition may be reduced to two antagonistic processes,
+association and dissociation, assimilation and dissimilation; to combine,
+to separate; in brief, analysis and synthesis.[71] In the formation of
+the generic image, as we have seen, assimilation plays the principal
+part; the mind works only upon similarities. In proportion as we recede
+from this point, we have the contrary; the mind works more and more upon
+differences; the primitive and essential operation is a dissociation; the
+fusion of similarities only appears later. The further back we go, the
+more analysis preponderates, because we are pursuing resemblances more
+and more hidden by differences. Coarser minds do not rise above palpable
+similarities. The peasant who hears a dialect or patois closely akin to
+his own understands nothing of it; it is another language to him; whereas
+even a mediocre linguist immediately perceives the identity of words that
+differ only in accent.
+
+We may represent the differences between generic images, and these
+general notions that most nearly approximate to them, by the following
+symbol:
+
+     I. _A B C d e_
+        _A B C e f_
+        _A B C g h_, etc.
+
+    II. _A b c d e_
+        _x y z A f_
+        _g A h k m_, etc.
+
+where each line corresponds to an object, and each letter to one of the
+principal characters of the object. Table I is that of the generic image.
+A part, _A B C_, is constantly repeated in each experience; moreover,
+it is in relief, as indicated by the capitals; the elimination of
+differences is almost passive,—self-caused; they are forgotten.
+
+Table II is that of a fairly simple general notion. Here _A_ has to
+be disengaged from all the objects in which it is included. It still
+has a salient character, indicated by capitals, and recurring in each
+object; but as it is merged in the differences, as it represents but a
+poor fraction of the total event, it is not disengaged spontaneously; it
+exacts a preliminary labor of dissociation and elimination.
+
+Thus understood, the difference between the two processes consists only
+in the faculty of greater or less dissociation, and we are in no way
+authorised in assuming a difference of nature.
+
+But the question may be propounded in a different manner,—more precise
+and more embarrassing. I formulate it thus: the generic image is never,
+the concept is always a judgment. We know that for logicians (formerly
+at any rate) the concept is the simple and primitive element; next comes
+the judgment, uniting two or several concepts; then ratiocination,
+combining two or several judgments. For the psychologist, on the
+contrary, affirmation is the fundamental act; the concept is the _result_
+of judgments (explicit or implicit), of similarities with exclusion of
+differences. If in addition to this we recall what was said above: that
+speech commences with phrases only, that in its simplest form it is the
+word-phrase; then the debated question may be thus transformed: Is there,
+between the generic image and judgment in its lower forms, a break in
+continuity, or a passage by slow transformation?
+
+For the partisans of the first theory, the appearance of judgment is
+a “passage of the Rubicon” (Max Müller). It is as impossible to deny
+this as to affirm it positively and indisputably. Romanes, who makes a
+stand against the “passage of the Rubicon,” admits the following stages
+in the development of signs, taken as indicative of the development of
+intelligence itself.
+
+1. The indicative sign; gesture or pronominal root; a dog barking for a
+door to be opened, etc.
+
+2. The denotative sign which is affixed to particular objects, qualities,
+or actions; for example, the parrot which on seeing a person utters the
+name of the person, or some word which it has associated with him, and
+which for the animal has become the distinctive mark of the person.
+
+3. The connotative or attributive sign, which, rightly or wrongly, is
+attributed to an entire class of objects having a common quality; for
+instance, the child which applies the word _star_ to everything that
+shines.
+
+4. The denominative sign; or the intentional employment of the sign as
+such, with a full appreciation of its value; for example, the word _star_
+in its meaning to the astronomer.
+
+5. The predicative sign, or a proposition formed by the apposition of two
+denominative signs.[72]
+
+This hierarchical order, while in some measure open to criticism,
+indicates at least schematically the progressive passage from the
+concrete to the higher abstractions, and may therefore be accepted.
+
+It is clear that the two first stages scarcely pass beyond the concrete.
+
+To the third, Romanes attaches capital importance: judgment begins with
+it. It may, however, be asked if affirmation really exists at this stage.
+For my own part I am inclined to admit it as included in the generic
+image in its highest degree (for here too there are degrees), under the
+form _not of a proposition, but of an action_. The hunting dog assuredly
+possesses generic images of man and of different kinds of game, under
+the visual and more especially the olfactory form. When it starts off on
+the scent of its master, of a hare, or of a partridge, this is surely
+a judgment of a certain kind, an affirmation, the least doubtful of
+all, seeing that it is an act. The absence of verbal expression and of
+logical information in no way alters the fundamental nature of the mental
+state. We have already (Chap. I.) spoken of _practical_ judgments and
+ratiocinations; it is needless to reiterate.
+
+The transition from the third to the fourth stage is even more important.
+It is here that the true concept appears; this point attained, an almost
+unlimited progress is possible. Now the true cause of the true concept
+is reflexion. This formula appears to us the simplest, the briefest, the
+most clear, and the most exact. There is the possibility of concepts
+where there is the possibility in the mind of detaching a single
+character (or several), extracted from among many others, of setting it
+up as an independent entity, of raising it into a _known_ object, i.
+e., determined in its relations with ourselves, and with other things.
+Example: to form the general idea of a vertebrate. But this fundamental
+act—reflexion—is not without antecedents, it does not spring forth as a
+new apparition. It is the highest degree of attention, i. e., of a mental
+attitude that we encounter very low down in the animal scale.
+
+Discontinuity of evolution, in the passage from lower to higher, is thus
+far from being established. Doubtless this, like all other questions
+of genesis, leaves much to hypothesis, and can only be decided on
+probabilities: yet these do not appear to favor a rupture in continuity,
+and opposition of nature.
+
+In sum—to confine ourselves to what is least contestable: given the
+cerebral and psychological conditions for speech (not for articulate
+language alone), and application of words to qualities and attributes
+raised little by little into independent entities,—and the decisive step
+has been taken. Such is intellectual progress, and we may remark in
+passing that the process which creates the true concept, leads fatally by
+the same issue to faith in idols, in the entities realised.
+
+Without for the moment pausing at this last point, let us under a more
+positive form, and strictly on the lines of experimental psychology,
+examine the nature of the lower forms of intermediate abstraction,
+determining it by examples. At the same time we shall fix the
+intellectual level that corresponds to the moment of transition between
+generic images (animal form), and the higher abstracts which have still
+to be studied in detail. The best method is to take as a type such
+human races as have remained in the savage or half-civilised state:
+these are more instructive than childhood, because they represent fixed
+and permanent conditions. We can draw on two principal sources: their
+languages, and their systems of numeration. Their religious beliefs might
+also be studied, with the same results, but this would take too long, and
+would moreover be less definite.[73]
+
+1. _The languages_, considered under their most general characteristics,
+reveal a notable impotence for transcending the simplest resemblances,
+an incurable incapacity for extended generalisations; they hardly
+rise above the concrete. Words play a very indistinct part; they are
+the most incomplete substitute—hardly more than a mark, a sign, like
+gestures—differing from the latter only in the future they carry within
+them. The study of the ascending progress of generalisation is in
+effect the study of the successive phases of the emancipation of speech
+up to the time when it becomes preponderant and dominating. At the
+actual stage, which might be termed _concrete-abstract_, it is not yet
+emancipated; it is a minor, under tutelage.
+
+Let us take in turn substantives, adjectives, and verbs.
+
+The indigenes of Hawaii, says Max Müller (_Lectures on the Science of
+Language_, Second Series, II., p. 19), have but one word, “aloba,” to
+express love, friendship, esteem, gratitude, benevolence, etc.; on the
+other hand, words to express variations in the direction of the force
+of the wind are very numerous, proving once more how at its origin
+abstraction or dissociation is governed by practical causes. In savage
+languages there are terms to express not merely each species of dog, but
+their age, the color of their hair, good or bad qualities, etc. So, too,
+for the horse; there are special words to designate its varieties, and
+all its movements; to indicate if it is mounted, not mounted, frightened,
+running away, and the like. The North American Indians have special words
+for the black oak, the white oak, and the red oak, but none for the oak
+in general,—still less for tree in general. The indigenes of Brazil can
+point out the different parts of the body, but not the body as a whole
+(Lubbock). Among several tribes of Oceania, a special word is employed
+for the tail of a dog, another for the sheep’s tail, and so on, but they
+have no designation for tail in general. Again, there is no common term
+for the cow, but there are distinct words for red, white, or brown cows
+(Sayce).
+
+There are, however, cases of very clear progress in generalisation; the
+significance of a word extends itself; from specific it becomes generic.
+This metamorphosis exists _in vivo_ among the Finns and Laplanders.
+The former have a name for the smallest stream, and none for river;
+originally again there was a term for each finger, none for finger in
+general; but latterly the term used for thumb alone has come to designate
+the fingers collectively. Among the second race, certain tribes who had
+a special denomination for each kind of bay, have now adopted one that
+serves for all kinds (Max Müller).
+
+The same holds good of the poverty of the adjective, the abstract term
+proper. The case of the Tasmanians has often been quoted, how they could
+only express qualities by concrete representations: hard = like a stone;
+long = legs; round = like a ball, like the moon, etc. (Lubbock). A less
+familiar case, termed by linguists “concretism,” is met with even in
+certain more developed idioms, like a survival of the time when the mind
+was unable to detach itself from the concrete, or to forego a complete
+and detailed qualification. Instead of saying ten merchants, five hens,
+the idiom is merchants ten men, hens five birds, and so on for similar
+cases.
+
+The verb is able to express all degrees of abstraction and of
+generalisation as well as the adjective and substantive. At this period,
+it exactly repeats the type (as described above) of the substantive with
+its burdensome multiplicity,—for want of a generalisation simple enough,
+according to our judgment. The North American Indians have special
+words for saying: to wash one’s face, another person’s face, the linen,
+utensils, etc.: in all, thirty words, but none for washing in general.
+So, too, for eating bread, fruits, meat, etc., striking with the hand,
+foot, axe, etc., for cutting wood, meat, or any other objects: for all
+these there are special terms, but none for saying simply, to eat, to
+knock, to cut (Sayce, Hovelacque.) On the other hand, we note a case of
+transition, analogous to that of the Lapps and Finlanders. Certain tribes
+in Brazil have a few verbs of general, simple significance: eat, drink,
+dance, see, etc., even love, thank, etc. (Lubbock).
+
+We need not multiply examples; these will suffice to throw into relief
+the extreme impotence in generalising, so soon as the mind loses its hold
+on the concrete. We might also recall the difficulty so often experienced
+by missionaries. They find it almost impossible, even by creating new
+words, or by changing the meaning of others, to translate the sacred
+books into these idioms, from their paucity of concrete terms.
+
+2. _The numeration_, taking its development as a whole, appears to
+sub-divide into three principal periods: concrete numeration, as studied
+above, in animals and children; concrete-abstract numeration, with which
+we are now occupied; purely abstract numeration, which we shall examine
+later, as translated into organised arithmetic.
+
+We have seen that speech at its origin was so humble as to need gesture
+to complete and to elucidate it. During its concrete-abstract period,
+numeration is in an analogous position. At first its extension is very
+limited: it progresses slowly and painfully from unity. Further, it can
+operate only when sustained by the concrete; it must have a material
+accompaniment. Counting is accomplished by the enunciation of words, with
+the aid of enumerated objects, as perceived at the same time, or with
+that of the fingers: which, let it be remarked, is the first essay in
+substitution. There is simultaneously concrete or digital, and verbal
+numeration.[74]
+
+We know that many Australian and South American tribes can count verbally
+to two only; some say two-one = three; two-two = four; others by the same
+process arrive at six (two-three = five, three-three = six): everything
+else is “much.” For the most part they count without words, with the
+aid of fingers or of articulation; even when they employ words, the two
+numerations—digital and verbal—are performed simultaneously.[75]
+
+This manner of counting is in first degree concrete; the
+concrete-abstract form is only there in embryo. A great advance, made
+early enough in many tribes, consisted in counting by five, taking the
+hand (five fingers) as a new unit, superior to the simple unit. Then:
+one hand = 5; two hands or half a man = 10; two hands, one foot = 15;
+two hands, two feet, or a man = 20. Such is the evident origin of the
+quinary, decimal, and vigesimal numerations. Sometimes fingers, as
+instruments of numeration, have been replaced by objects of a typical
+number. Ex.: 1 = moon or sun; 2 = the eyes or legs, etc.
+
+However varied these processes (of which only a few have been mentioned)
+in different races and periods, they are fundamentally identical to
+the psychologist. They may be reduced to this; numeration is performed
+more particularly with the aids of sensible perceptions; words are
+but an insignificant accompaniment, a superfluity—existing only as a
+proliferation—of so little utility that they are for the most part
+neglected.
+
+Though it is less often spoken of, we may remark that the measure of
+continuous quantity passed through the same concrete-abstract phase;
+and here it appeared at a somewhat early stage, owing to practical and
+social wants. Hence we find at the outset, the foot, the finger, the
+thumb (inch = Fr. _pouce_), the palestra (four fingers’ length), span,
+cubit (arm’s reach = _coudée_), fathom, etc., the stadium (distance a
+good runner could cover without stopping).[76] The concrete character
+of all these measures is obvious. Again, there are survivals in certain
+current locutions, such as a day’s journey. More than this; they have a
+_human_ character, their standard and starting-point being, at least at
+the outset, certain parts of the body, or a determined sum of muscular
+movements. Little by little they lost their original significance,
+progressing through centuries towards our metrical system the type of a
+scientific, deliberate, rationally abstract system, as far as possible
+liberated from anthropomorphism.
+
+The reader will probably obtain a more definite idea of the nature of
+these lower forms by recapitulating the examples cited, than from any
+long dissertation. Is their intellectual level very superior to that
+of the generic image? This question is doubtful. At times the only
+distinction between them is the presence of the word: at the present
+stage it makes but a poor figure,—yet with all its modesty, it augurs a
+new world wherein it is to be of prime importance.
+
+
+II.
+
+We now pass to a study of transition. In ascending from the lower to
+the _higher_ forms of abstraction, we traverse the intermediate region
+between the states directly superposed upon generic images, and the
+higher concepts. In fact, we shall to some extent have to penetrate into
+this extreme region, before the close of the chapter.
+
+At the risk of repetition, we must first indicate the characteristics
+by which the general notions we are at present concerned with are
+distinguished from the abstractions above and below them. To recapitulate
+briefly: In the concrete-abstract phase (which we are leaving) the
+general notion—so-called—is constituted by concrete elements, _plus_
+words, whose substitutory office is weak or null.
+
+In the abstract phase (upon which we are entering) the concept is
+constituted by an evoked or evocable image, which may exhibit every
+degree from clear representation to the pure schema, _plus_ the word
+that now becomes the principal element.
+
+In the phase of higher abstractions (to be studied later), no sensory
+representation arises, or should any such appear, reflexion would find
+in it only a dubious support, often an obstacle: the word meantime has
+acquired absolute supremacy in consciousness.
+
+Taken as a whole, psychological development exhibits a complex
+phenomenon, a binary compound, in which one element is always increasing,
+the other as steadily decreasing. Words pass from nonentity to autocracy;
+the concrete from supremacy to nonentity.
+
+We must now return to the higher forms of intermediate abstraction, since
+we may not content ourselves with any purely theoretical determination.
+Characteristic examples must be selected; and here we find a certain
+embarrassment. Does our choice fall on numeration? Yet on leaving the
+concrete-abstract period, this at once finds its formative law, and
+introduces us to pure abstraction. Are we to select language? This
+procedure might seem to be appropriate, seeing that the general ideas
+with which we are occupied constitute the substrata of our highly
+civilised modern languages, when, on the other hand, the more developed
+concepts (of mathematics, metaphysics, etc.) are only found rarely and
+incidentally. One might even plunder the dictionary, extracting all
+general terms, with elimination of those that are purely scientific, and
+classification of the former according to their increasing degree of
+generality. But this method, besides being very laborious and incapable
+of reduction to a clear statement for the reader, would suffer the
+cardinal defect of being arbitrary. How, indeed, could any common measure
+be established for all these general terms, issuing from the most
+diverse sources of human activity?[77]
+
+But the best method would seem to be that of taking as our basis
+the classifications of the naturalists, following their development
+historically. Here we have the advantage of positive documents, since
+these refer to concrete beings, and are formed according to characters
+observed empirically. They create, namely, an ascending progress
+from the individual to the more general notions, by a methodical
+process of filiation; they operate upon living beings, or objects of
+the same nature, having consequently a common standard. The history,
+even in brief, of these classifications is instructive: it shows the
+progressive passage of concrete-abstract ideas to more and more abstract
+concepts, from a statement of gross resemblances to the quest after
+subtle similarities, from the period of assimilation to that in which
+dissociation predominates.
+
+Among these different classifications, we may select those of the
+zoologists, since they appear to be the most numerous, most complete,
+and best elaborated. For the rest, the succeeding observations apply
+equally, _mutatis mutandis_, to the classifications of the botanists.
+We need scarcely add that our study is strictly psychological, that
+its object is not the absolute value of classifications, but the
+determination of the processes followed by the human mind, in proportion
+as the zoölogical taxonomy has constituted itself.
+
+At the outset we find a pre-scientific period as to which we know little;
+for these essays in classification differ, according to times and
+races. The Bible, Hindu literature, the primitive poets and historians
+of Greece, do however provide sufficient indications of the manner in
+which man originally classified other living beings. The repartition was
+usually made in three great categories, according as the animals lived in
+the water, or upon the earth, or flew in the air. The subdivisions are
+remarkable. Thus, among terrestrial animals, there are some that walk,
+and some that climb: in this last group there is a mixture of articulate
+creatures, of molluscs, reptiles and amphibians. Among aerial animals,
+we find birds, and many flying insects. These primitive classifications
+are based upon perception far more than on abstraction, or at any rate
+rest upon superficial resemblances. The habitual environment, air,
+water, earth, determines the cardinal classes. Some easily apprehended
+characteristic makes the subdivisions: e. g., flight (birds, insects),
+locomotion (walking, climbing). The method employed is hardly superior
+to that by which generic images are formed; and in the order of
+classification, this point corresponds with the concrete-abstract period
+of primitive languages, numerations, and religions, i. e., to a gross
+generalisation fixed by a word.
+
+The scientific period begins with Aristotle. It has been affirmed that he
+owes numerous points to predecessors whom he fails to mention: this is
+a historical matter of no interest in the present connexion. With him,
+or under his name, we have the commencement of comparative anatomy which
+involves a preliminary labor of analysis, unknown in the pre-scientific
+period, and marking the transition from apparent and superficial to
+profound and essential resemblances. His classification is of course
+imperfect, often inconsistent; it bears the impress of an epoch of
+transition.
+
+His terminology is poor, unstable, floating. He distinguishes two sorts
+of groups only: the genus (γένος) and the species (εἶδος). “But the term
+γένος has the least constant significance: it serves as the indistinct
+designation of any group of species, however great its extension, as
+well what we now term classes, as other lower groups.”[78] Sometimes
+however Aristotle speaks of large genera (γένη μέγαλα) and of very large
+genera (γένη μέγιστα), without any precise denotation. It has been
+said that penury of words was an obstacle to him: yet this is hardly a
+plausible reason, seeing that he found means to create the word ἔντομα to
+designate insects. The true obstacle was the insufficient determination
+of character.
+
+Again, independently of nomenclature, “while Aristotle knew a fairly
+large number of animals, the notion of grouping them in definite order,
+which should express their greater or less degree of similarity, does
+not appear to have presented itself to his mind. Hence he did not
+attempt what we call classification. He compares different animals
+together, by every possible means, and endeavors to reduce the result
+of his comparisons to general propositions.” In this way he arrives at
+relations which are sometimes important, sometimes without importance.
+For example: among animals, some have blood, some lymph, which takes its
+place: this division, notwithstanding the error on which it is based,
+corresponds broadly speaking with the distinction between vertebrates and
+invertebrates. Animals “which have blood” are subdivided into viviparous
+and oviparous. Further, animals that fly are ranged in three categories,
+according as their wings are feathered (birds), or formed by a fold of
+skin (bats), or dry, thin, and membranous (insects). Then there is a
+division of animals into aquatic and terrestrial, social and solitary,
+migratory and sedentary, diurnal and nocturnal, domestic and wild, etc.
+
+In sum, there is co-existence of two processes: one scientific, implying
+a preliminary analysis; the other of common observation, which does not
+sensibly differ from concrete-abstract classifications; and the idea of a
+hierarchy formed by abstraction of abstracts, by a systematic arrangement
+of the animal kingdom, has not yet made its appearance. Yet Aristotle’s
+work, just by reason of its composite nature, is interesting to the
+psychologist who studies the evolution of the faculty of abstracting and
+generalising.
+
+We may pass over two thousand years, during which no progress was made,
+till we come to Linnæus. “He was the first man who distinctly conceived
+the idea of expressing, under a definite formula, what he believed to be
+the system of nature.” His nomenclature is fixed. Under the names of
+classes (_genus summum_), orders (_genus intermedium_), genera (_genus
+proximum_), species, varieties, he proposes subdivisions of decreasing
+value, embracing a greater or less number of animals which all present
+in common more or less general attributes. He pursues the research after
+fundamental characteristics, and _essential_ similarities, incessantly
+correcting his first results. Thus it is only at the eleventh edition of
+his _Systema naturæ_ that the class of “Quadrupeds” is converted into
+Mammals: the Cetacea are included in this class, and no longer placed
+among the fish, as also bats, which were formerly classified with birds,
+etc.[79] Whatever their objective value, we have here a true system of
+rational concepts.
+
+We may instance Cuvier for the clearness with which he separates the
+predominant and subordinate characteristics: “If,” he says, “we consider
+the animal kingdom on the principles just laid down, regarding only
+the organisation and nature of the animals, instead of their size and
+utility, according to our knowledge of them, or the sum of accessory
+circumstances, we find that there are four principal forms, four general
+plans, if we may so express ourselves, on which all animals seem to
+have been modelled,” etc. These four branches (a new word created by
+him), which he held to be irreducible, were the Vertebrata, Articulata,
+Mollusca, and Radiata.
+
+Finally, since the progress of consecutive abstraction and generalisation
+consists in incessantly seeking out extracts of extracts, and
+simplifications of simplifications, the natural movement of the mind
+tends fatally towards pure unity as its supreme end. This last phase
+belongs to the nineteenth century, and still more to the contemporary
+epoch. It comes from various sources, and has assumed different forms:
+
+1. Speculative in the school of Schelling. To Oken, the highest
+representative of this view, man is the prototype and measure of animal
+organisation; all other animals are constructed after his pattern. “Their
+body is in some sort the analysed body of a man; the human organs live,
+whether in isolation, or in different combinations, in the state of
+independent animals. Each such combination constitutes a class.”
+
+2. Embryological, according to the labors of Von Baer. While Cuvier, in
+classification, brought anatomy and morphology to the front, a new system
+now appears, founded upon development only; the science of embryology.
+To be accurate, Baer’s conception was not unitary, since it admitted
+four types: peripheral (radiate), massive (molluscan), longitudinal
+(articulated), bi-symmetrical (vertebrate). But little by little, the
+oft-substantiated principle asserted itself and found firm footing among
+his successors: the animal with the highest organisation passes, during
+its individual development, through phases which, in less highly evolved
+beings, are permanent states; or, more briefly, among the higher animals,
+ontogenesis is a repetition of phylogenesis.
+
+3. Transformist. The boldest partisans of this view, e. g., Haeckel,
+adopt a rigorously unitary conception: all the innumerable examples of
+the animal kingdom have issued from one common stock.
+
+In all there is a fundamental trend of the mind towards the idea of
+original unity. It is unimportant for the moment to examine whether
+this concept of ideal unity (we might also recall the vegetable ideal
+of Goethe, and the vertebrate ideal of Richard Owen) is a delusion, or
+a true apprehension: we shall return to this later, in discussing the
+_objective_ value of the notions of genus and species (Chap. V. § vi). At
+this point, the _subjective_ psychological process alone is relevant to
+our purpose.
+
+This review has no pretensions at being even an abridged history of
+zoölogical classifications. It merely aims at showing by facts, (1) how
+a hierarchy of concepts is constituted, and in the travail of centuries
+passes from the period of generic images to the ideal of embryological
+unity, common to all beings; (2) how the work of dissociation and
+analysis has always gone on, and multiplied, in quest of similarities
+more and more difficult to discover—often indeed fragile or dubious—to
+stop at unity only, the supreme abstraction.
+
+We are now at the threshold of the last period of abstraction, that of
+complete symbolism, and it is not without interest to note that what
+passes in the theoretical order has its equivalent in another form of
+human activity—the practical order—where the mechanism of exchange is
+again developed by the aid of an ever-increasing substitution. Thus,
+at the lowest stage, all commercial transactions are reduced to truck,
+to exchange by barter. The concrete for the concrete is the method of
+primitive peoples. An immense step is taken when this rudimentary process
+is succeeded by the employment of precious metals. A substitutory value
+is taken as the common measure of other values. At the outset, silver and
+gold, in the form of powder or of small bullion, were weighed out by
+the contractors for each particular transaction. Next, this inconvenient
+procedure was replaced by coined money, issued under the control of an
+officer, or of the social aggregate, thus conferring a general value
+on the instrument of exchange. Lastly, at a much later period, bills
+of exchange, bank-notes, and numerous forms of letters of credit, were
+substituted for gold and silver; so that a sheet of paper worth less than
+a centime may become the symbol of millions and tens of millions.
+
+This resemblance of the two cases is by no means fortuitous. It is
+based upon identity of psychological process, namely a substitution
+of ascending degrees, an ever increasing simplification, whether in
+the order of speculative research, or in the department of commercial
+transaction: and just as paper tokens, unless financially convertible
+into objects of consumption, for use or luxury, are nonentities that
+can accumulate in the bank without the gain of anything more than a
+simulacrum—so, if the highest symbols of abstraction cannot be reduced
+to the data of experience, we may, as too often occurs, accumulate,
+manipulate, build up concepts, and still be in a state of permanent
+intellectual bankruptcy.
+
+
+
+
