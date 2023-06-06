@@ -1,4 +1,9 @@
 
+
+# Delete The data folder if you want to see the impact of this file  
+
+
+
 import os
 import requests
 
